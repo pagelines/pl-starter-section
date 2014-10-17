@@ -7,7 +7,8 @@
 	Class Name: pl_starter_section
 	Demo:
 	Version: 1.0
-	Filter: component
+	PageLines: true
+	v3: true
 */
 
 /**
